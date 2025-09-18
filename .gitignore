@@ -33,3 +33,11 @@ coverage/
 
 # Misc
 *.local
+
+# Storybook
+storybook-static/
+.sb-cache/
+.storybook-cache/
+.storybook-out/
+chromatic-static/
+*storybook.log
