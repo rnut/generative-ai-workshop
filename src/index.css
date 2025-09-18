@@ -1,8 +1,8 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-/* Custom base tweaks (optional) */
-/* ...existing code removed old manual resets... */
-
+/* Custom global styles (optional) */
 html, body { height: 100%; }
 
 body {
